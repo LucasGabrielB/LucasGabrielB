@@ -1,4 +1,4 @@
-<h1 align="center"> *Lucas Gabriel* </h1>
+<h1 align="center"> Lucas Gabriel </h1>
 <p align="center"> 🧠 Cientista de dados & Arquiteto 💻 <p>
  
 <hr>
