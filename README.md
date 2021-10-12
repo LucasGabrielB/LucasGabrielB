@@ -3,6 +3,7 @@
 <p align="center"> 🧠 Cientista de dados & Arquiteto 💻 <p>
 
 <div align="center">
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-lucasgabrielb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgabrielb/)](https://www.linkedin.com/in/lucasgabrielb/)
 </div>
 
