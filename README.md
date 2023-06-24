@@ -1,6 +1,6 @@
 <h1 align="center"> Lucas Gabriel </h1>
 
-<p align="center"> 🧠 Cientista de dados & Arquiteto 💻 <p>
+<p align="center"> 🧠 Cientista de dados & Tech Lead 💻 <p>
 
 <div align="center">
  
